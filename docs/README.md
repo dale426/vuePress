@@ -1,8 +1,13 @@
 ---
 home: true
+bgImage: '/img/background.jpg'
+bgImageStyle: {
+  height: '350px'
+}
+faceImage: '/img/logo.png'
 heroImage: /hero.png
-heroText: Hero 标题
-tagline: Hero 副标题
+heroText: 前端技术学习成长日记
+tagline: 永远年轻、永远热泪盈眶
 actionText: 快速上手 →
 actionLink: /zh/guide/
 features:
